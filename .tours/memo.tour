@@ -6,6 +6,16 @@
       "file": "process.d.ts",
       "description": "環境変数の型付け、これいいなー。\nref: \n  - (cra)[https://github.com/facebook/create-react-app/blob/394e385d5e25705ebd9f82e90958f6f207a5c315/packages/react-scripts/lib/react-app.d.ts#L5-L10]\n  - (qiita)[https://qiita.com/akameco/items/6567ccb1fd3b2e787f56]",
       "line": 1
+    },
+    {
+      "file": "pages/api/examples/session.ts",
+      "description": "ref: https://nextjs-ja-translation-docs.vercel.app/docs/api-routes/introduction",
+      "line": 1
+    },
+    {
+      "file": "pages/api/examples/session.ts",
+      "description": "ref:\n  - https://qiita.com/kage1020/items/e5b0053d7046a9b1f628\n  - https://zenn.dev/praha/articles/244df825a55103",
+      "line": 11
     }
   ],
   "ref": "main"
