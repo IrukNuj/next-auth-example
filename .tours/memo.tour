@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "memo",
+  "steps": [
+    {
+      "file": "process.d.ts",
+      "description": "環境変数の型付け、これいいなー。\nref: \n  - (cra)[https://github.com/facebook/create-react-app/blob/394e385d5e25705ebd9f82e90958f6f207a5c315/packages/react-scripts/lib/react-app.d.ts#L5-L10]\n  - (qiita)[https://qiita.com/akameco/items/6567ccb1fd3b2e787f56]",
+      "line": 1
+    }
+  ],
+  "ref": "main"
+}
